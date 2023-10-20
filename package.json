@@ -1,0 +1,22 @@
+{
+  "name": "mockowanie-v1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "format": "npx prettier --write .",
+    "test": "npx playwright test",
+    "test:headed": "npm run test -- --headed",
+    "test:ui": "npm run test -- --ui",
+    "show-report": "npx playwright show-report",
+    "test:tag": "npx playwright test --grep @tag"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.39.0",
+    "@types/node": "^20.8.6",
+    "prettier": "3.0.3"
+  }
+}
