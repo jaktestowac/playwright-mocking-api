@@ -3,7 +3,7 @@ import { TITLES } from "./titles";
 
 for (const title of TITLES) {
   test(`article title: ${title} @perf-mock`, async ({ page }) => {
-    const expectedTitle = "x";
+    const expectedTitle = title;
 
     const apiPath = "**/api/articles/1";
 
