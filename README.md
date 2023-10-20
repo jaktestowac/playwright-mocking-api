@@ -3,7 +3,7 @@
 Exercises for training tests mocking.
 
 All exercises have detailed descriptions available after signing here:
-https://jaktestowac.pl/mocking/
+https://jaktestowac.pl/mockowanie/
 You will get link to recording of webinar, presentation and tips (in Polish language).
 
 ## Tested app
