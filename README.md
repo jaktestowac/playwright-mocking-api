@@ -8,7 +8,7 @@ You will get link to recording of webinar, presentation and tips (in Polish lang
 
 ## Tested app
 
-Information how to get tested app is located in page available after registering here https://jaktestowac.pl/mocking/
+Information how to get tested app is located in page available after registering here https://jaktestowac.pl/mockowanie/
 
 ⚠️ Glitch free account is limited to 4k requests per hour, app is deleted after 5 days without account
 
