@@ -11,11 +11,11 @@
     "show-report": "npx playwright show-report",
     "test:tag": "npx playwright test --grep @tag"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["playwright", "mockowanie", "testowanie", "rest api", "automatyzacja", "typescript"],
+  "author": "jaktestowac.pl",
   "license": "ISC",
   "devDependencies": {
-    "@playwright/test": "^1.39.0",
+    "@playwright/test": "^1.54.0",
     "@types/node": "^20.8.6",
     "prettier": "3.0.3"
   }
